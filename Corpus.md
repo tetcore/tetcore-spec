@@ -383,7 +383,7 @@ Defines:
 
 Defines:
 
-* Expected average (~0.01 target)
+* Expected average (~0.001 target)
 * Congestion adjustment
 * Anti-spam measures
 
